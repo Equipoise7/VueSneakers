@@ -1,5 +1,6 @@
 <template>
   <p>Я компонент MyHello</p>
+  <p>Добавлена новая ветка work</p>
   <button>Open</button>
 </template>
 
